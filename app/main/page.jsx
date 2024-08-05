@@ -47,7 +47,7 @@ export default function Page() {
           <InstructionsCard title="How does it work?" steps={steps} />
           <div className="instructions frame-card">
             <iframe
-              src="https://www.chatbase.co/chatbot-iframe/F1yWJorSp--kGP8l2hXUB"
+              src="https://www.chatbase.co/chatbot-iframe/oRuK-t0p0KzUMhAX5E-i_"
               frameBorder="1"
               width="100%"
               height="500px"
